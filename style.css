@@ -582,6 +582,17 @@ footer {
     height: 24px;
 }
 
+#contact {
+  padding: 40px;
+  background: #f0f0f0;
+}
+
+#contact h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
 /* Responsive Design */
 @media (max-width: 768px) {
     nav {
@@ -652,4 +663,5 @@ footer {
 
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
+
 }
